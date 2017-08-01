@@ -1,0 +1,22 @@
+{
+  "name": "hwt-template-string",
+  "version": "1.0.0",
+  "description": "how to use template-string",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/basic0407/hwt-template-string.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basic0407/hwt-template-string/issues"
+  },
+  "homepage": "https://github.com/basic0407/hwt-template-string#readme",
+  "dependencies": {
+    "es6-template-strings": "^2.0.1"
+  }
+}
